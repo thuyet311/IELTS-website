@@ -6,6 +6,8 @@ body{
   font-family: 'Muli', sans-serif;
   color: #505962;
 }
+
+
 .offset:before {
   display: block;
   content:"";
@@ -35,6 +37,7 @@ body{
 }
 
 /* -- Landing Page -- */
+
 .home-inner {
   background-image: url(img/learning.jpeg);
 }
@@ -63,7 +66,7 @@ body{
 /* Course section */
 
 .btn-secondary {
-  border-with: medium;
+  border-width: medium;
   border-radius: 0;
   text-transform: uppercase;
   padding: .6rem;
